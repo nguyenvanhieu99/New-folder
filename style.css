@@ -95,3 +95,6 @@ margin:  0 0 0 0 ;
  /* justify-content: center;
   flex-direction: row;*/
 }
+td.img{
+    margin: 15px 15px 15px 15px;
+}
