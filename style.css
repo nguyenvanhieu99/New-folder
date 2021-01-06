@@ -98,3 +98,11 @@ margin:  0 0 0 0 ;
 td.img{
     margin: 15px 15px 15px 15px;
 }
+.container1{
+     display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /*grid-template-rows: 50px 50px;*/
+}
+.container1 div img{
+    margin: 20px 20px 20px 20px ;
+}
