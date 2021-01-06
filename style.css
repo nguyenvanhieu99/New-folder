@@ -8,7 +8,11 @@ body {
     font-family: VNF-Bodoni;
     src: url(FONTS/Philosopher-Bold.ttf);
 }
-
+.container{
+    width: 70%;
+    margin-right: auto;;
+    margin-left: auto;
+}
 .tieude {
     display: flex;
     justify-content: center;
